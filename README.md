@@ -1,10 +1,6 @@
 # National Parks and Weather
 A site that allows users to search for national parks (making calls to the NPS API) by keyword. Results listed will display basic information, and each provides a link to the particular park's website as well as a page for more information. "More Info" will display just that, as well as asynchronously call to a weather API to display a forecast for that park!
 
-### Working Prototype 
-You can access a working prototype here: https://evanpoe.github.io/Parks-and-Weather/
-
-
 ### User Stories 
 
 ###### Landing Page (Importance - High) (Est: 1h)
